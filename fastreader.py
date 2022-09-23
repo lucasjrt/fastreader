@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import argparse
-from ctypes.wintypes import WORD
 import os
 from time import sleep
 
